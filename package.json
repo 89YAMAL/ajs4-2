@@ -1,0 +1,33 @@
+{
+  "name": "ajs4-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/89YAMAL/ajs4-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/89YAMAL/ajs4-2/issues"
+  },
+  "homepage": "https://github.com/89YAMAL/ajs4-2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "babel-jest": "~26.0.1",
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "~26.0.1"
+  },
+  "dependencies": {
+    "core-js": "^3.25.1"
+  }
+}
